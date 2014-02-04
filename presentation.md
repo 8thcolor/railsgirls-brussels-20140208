@@ -20,11 +20,11 @@
 
 ---
 
-## No one ever told them better
+## No one ever **told** them better
 
 ---
 
-## No one ever shown them better
+## No one ever **shown** them better
 
 ---
 
@@ -32,7 +32,7 @@
 
 ---
 
-## I worked with people practicing Agile
+## I worked **with people** practicing Agile
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-## We learned Ruby together with Christophe
+## We learned Ruby by building Sybil **together** with Christophe
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## They learned by working with our team
+## They learned **by working with our team**
 
 ---
 
@@ -76,15 +76,15 @@
 
 ---
 
-## Someone that can read some Ruby
+## Someone who can read and write some Ruby
 
 ---
 
-## Someone that want to work with you
+## Someone who want to work with you
 
 ---
 
-## Level is not important, willingness is
+## Level is not important, **willingness** is
 
 ---
 
