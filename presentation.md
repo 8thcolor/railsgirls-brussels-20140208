@@ -16,7 +16,7 @@
 ---
 
 
-## I met young, smart developers recently, but *they are doing everything wrong*
+## I met young, smart developers recently, but they are doing everything wrong
 
 ---
 
@@ -24,15 +24,15 @@
 
 ---
 
-## No one ever *shown* them better
+## No one ever shown them better
 
 ---
 
-## I'm currently coaching teams in Agile *yet I never followed any Agile course*
+## I'm currently coaching teams in Agile yet I never followed any Agile course
 
 ---
 
-## I worked with people *practicing* Agile
+## I worked with people practicing Agile
 
 ---
 
@@ -40,7 +40,7 @@
 
 ---
 
-## *We learned Ruby together* with Christophe
+## We learned Ruby together with Christophe
 
 ---
 
@@ -50,7 +50,7 @@
 
 ---
 
-## They learned *by working* with our team
+## They learned by working with our team
 
 ---
 
@@ -84,7 +84,7 @@
 
 ---
 
-## Level is not important, *willingness* is
+## Level is not important, willingness is
 
 ---
 
