@@ -15,6 +15,15 @@
 
 ---
 
+## I graduated in economy, with my most advanced IT course being on Excel
+
+## yet I've done all my career in programming
+
+---
+
+## I started as a junior inside a programming team, and learned the craft **with them**
+
+---
 
 ## I met young, smart developers recently, but they are doing everything wrong
 
@@ -46,7 +55,7 @@
 
 ## I hired junior developers with no experience at all
 
-### Despire having done CS courses, they were unable to do the simplest tasks
+### Despite having done CS courses, they were unable to do the simplest tasks
 
 ---
 
@@ -68,6 +77,10 @@
 
 ---
 
+## Design sessions
+
+---
+
 ## Pair programming
 
 ---
@@ -80,7 +93,7 @@
 
 ---
 
-## Someone who want to work with you
+## Someone who wants to work with you
 
 ---
 
