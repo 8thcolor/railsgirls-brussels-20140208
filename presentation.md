@@ -17,7 +17,7 @@
 
 ## I graduated in economy, with my most advanced IT course being on Excel
 
-## yet I've done all my career in programming
+### yet I've done all my career in programming
 
 ---
 
@@ -25,7 +25,9 @@
 
 ---
 
-## I met young, smart developers recently, but they are doing everything wrong
+## I met young, smart developers recently
+
+### but they are doing everything wrong
 
 ---
 
@@ -33,11 +35,13 @@
 
 ---
 
-## No one ever **shown** them better
+## No one ever **showed** them better
 
 ---
 
-## I'm currently coaching teams in Agile yet I never followed any Agile course
+## I'm currently coaching teams in Agile 
+
+### yet I never followed any Agile course
 
 ---
 
@@ -45,7 +49,9 @@
 
 ---
 
-## We started 8th color as a Ruby company two years ago, and none of us has ever used Ruby
+## We started 8th color as a Ruby company two years ago
+
+### and none of us has ever used Ruby
 
 ---
 
